@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-27 19:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: articles/models.py:13 clothes/models.py:13
+msgid "Caption"
+msgstr ""
+
+#: articles/models.py:14 clothes/models.py:14
+msgid "Description"
+msgstr ""
+
+#: articles/models.py:15
+msgid "Main content"
+msgstr ""
+
+#: articles/models.py:16 clothes/models.py:15
+msgid "Slug"
+msgstr ""
+
+#: articles/models.py:21 clothes/models.py:20
+msgid "Author"
+msgstr ""
+
+#: articles/models.py:22
+msgid "External link"
+msgstr ""
+
+#: articles/models.py:27
+msgid "Article"
+msgstr ""
+
+#: articles/models.py:28
+msgid "Articles"
+msgstr ""
+
+#: articles/models.py:36
+msgid "Admin of the site"
+msgstr ""
+
+#: clothes/models.py:25 clothes/models.py:26
+#: mainpage/templates/main_template.html:50
+msgid "Clothes"
+msgstr ""
+
+#: mainpage/templates/main_template.html:47
+msgid "Blog"
+msgstr ""
+
+#: mainpage/templates/main_template.html:53
+msgid "Order"
+msgstr ""
+
+#: mainpage/templates/main_template.html:56
+msgid "Your orders"
+msgstr ""
+
+#: mainpage/templates/main_template.html:59
+msgid "About"
+msgstr ""
